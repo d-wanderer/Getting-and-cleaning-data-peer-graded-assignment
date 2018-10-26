@@ -1,7 +1,4 @@
----
-title: "README.md"
-author: "Ruben Jongstra"
-date: "March 26, 2017"
+
 output: html_document
 ---
 
